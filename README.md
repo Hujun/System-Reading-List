@@ -17,4 +17,7 @@ This is a reading list to record daily study and reading about distributed syste
 * Alexandre Verbitski, Anurag Gupta, Debanjan Saha, Murali Brahmadesam, Kamal Gupta, etc.. 2017. [Amazon Aurora: Design Considerations for High
   Throughput Cloud-Native Relational Databases](paper/p1041-verbitski.pdf). Amazon.
 * Alexandre Verbitski, Anurag Gupta, Debanjan Saha, James Corey, etc.. 2018. [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](paper/Amazon-Aurora2.pdf). Amazon.
+* Tyler Akidau, Robert Bradshaw, Craig Chambers, Slava Chernyak,
+  Rafael J. Fernandez-Moctezuma, Reuven Lax, Sam McVeety, Daniel Mills, ´
+  Frances Perry, Eric Schmidt, Sam Whittle. 2015. [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](paper/data_flow.pdf). Google.
 
