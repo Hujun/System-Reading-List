@@ -22,3 +22,4 @@ This is a reading list to record daily study and reading about distributed syste
   Frances Perry, Eric Schmidt, Sam Whittle. 2015. [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](paper/data_flow.pdf). Google.
 * Tyler Akidau, Slava Chernyak, Reuven Lax. 2018. [Streaming System](<http://streamingsystems.net/>). O'Reily.
 * Martin Kleppmann. 2017. [Designing Data-Intensive Applications](book/DDIA.pdf). O'Reilly. [Review](https://github.com/Hujun/blog/issues/6)
+* MARKO LUKŠA. 2018. [Kubernetes in Action](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725/). Manning.
